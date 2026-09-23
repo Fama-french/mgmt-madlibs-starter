@@ -1,0 +1,17 @@
+nouns = nouns.concat([
+    'hedge fund',
+    'spreadsheet',
+    'unicorn startup',
+    'balance sheet',
+    'venture capitalist',
+    'croissant',
+    'baguette',
+    'stock ticker',
+    'term sheet',
+    'rubber duck',
+    'llama',
+    'accordion',
+    'consultant',
+    'pivot table',
+    'quarterly earnings call',
+]);
