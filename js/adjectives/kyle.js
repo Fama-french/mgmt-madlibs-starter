@@ -14,5 +14,6 @@ adjectives = adjectives.concat([
     'quick-witted',
     'perspicacious',
     'discerning',
+    'sagacious',
     'perceptive',
 ]);
